@@ -34,7 +34,7 @@ The dataset is provided as a JSON file containing a list of dictionaries. Each a
 
 ## Usage
 
-This dataset intended for research on:
+This dataset is intended for research on:
 
 The history of post-WWII Italy
 Military history 
@@ -57,4 +57,4 @@ The dataset was created with the help of the researchers at the Learning Science
 
 ## Contact
 
-For any information, please contact me at michele_ciletti@unifg.it .
+For any information, please contact me at michele_ciletti.587188@unifg.it .
