@@ -2,7 +2,7 @@
 
 A complete digitized collection of *The Foggia Occupator*, a newspaper published by American forces during the post-WWII occupation of Foggia, Italy.
 
-![The cover page of an issue of the Foggia Occupator, representing a man dressed as Santa Claus and a young girl](cover.jpg "Foggia Occupator, December 30, 1945")
+![The cover page of an issue of the Foggia Occupator, representing a man dressed as Santa Claus and a young girl](cover_1945-12-23.jpg "Foggia Occupator, December 30, 1945")
 
 ## Dataset Overview
 
