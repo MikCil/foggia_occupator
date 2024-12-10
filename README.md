@@ -46,12 +46,12 @@ Text analysis and digital humanities projects
 
 ## Citation
 
-If you use this dataset in your research, please cite the following relative paper:
-...
+A full paper presenting thisn dataset is currently in press. However, if you wish to use this dataset in your research right now, please cite the following abstract:
+Ciletti, M., di Furia, M., Guarini, P., & Toto, G. A. (2024). Foggia Occupator: a case study on the creation of an Open Educational Resource through the digitization of a historical newspaper. In Book of Abstracts (p. 235).
 
 ## License
 
-The dataset is providded under an MIT License.
+The dataset is providded under a Creative Commons 4.0 License.
 
 ## Acknowledgments
 
