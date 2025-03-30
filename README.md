@@ -28,9 +28,11 @@ A complete digitized collection of *The Foggia Occupator*, a newspaper published
 The dataset is provided as a JSON file containing a list of dictionaries. Each article is represented by a dictionary with the following structure:
 
 {
-    "filename": "string",
+    "id": "string",
     "content": "string",
-    "publication_date": "string"
+    "publication_date": "string",
+    "page_number": "integer",
+    "article_number": integer"
 }
 
 
@@ -46,8 +48,7 @@ Text analysis and digital humanities projects
 
 ## Citation
 
-A full paper presenting thisn dataset is currently in press. However, if you wish to use this dataset in your research right now, please cite the following abstract:
-Ciletti, M., di Furia, M., Guarini, P., & Toto, G. A. (2024). Foggia Occupator: a case study on the creation of an Open Educational Resource through the digitization of a historical newspaper. In Book of Abstracts (p. 235).
+A full paper presenting this dataset is currently in press.
 
 ## License
 
