@@ -60,4 +60,4 @@ The dataset was created with the help of the researchers at the Learning Science
 
 ## Contact
 
-For any information, please contact me at michele_ciletti.587188@unifg.it .
+For any information, please contact michele.ciletti@gmail.com .
