@@ -40,11 +40,11 @@ The dataset is provided as a JSON file containing a list of dictionaries. Each a
 
 This dataset is intended for research on:
 
-The history of post-WWII Italy
-Military history 
-Journalism history
-Social and cultural analysis of occupation periods
-Text analysis and digital humanities projects
+- The history of post-WWII Italy
+- Military history 
+- Journalism history
+- Social and cultural analysis of occupation periods
+- Text analysis and digital humanities projects
 
 ## Citation
 
