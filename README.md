@@ -27,14 +27,20 @@ A complete digitized collection of *The Foggia Occupator*, a newspaper published
 
 The dataset is provided as a JSON file containing a list of dictionaries. Each article is represented by a dictionary with the following structure:
 
+```
 {
     "id": "string",
     "content": "string",
     "publication_date": "string",
     "page_number": "integer",
     "article_number": integer"
+    "topics": [
+        "string",
+        "string"
+    ]
 }
-
+```
+Furthermore, an additional JSON file containing automatically extracted arguments is provided, as well as a network file ready to be imported into Gephi which contains all the named entities in the dataset and their relationships. Lists of these entities and relationships are also provided as csv files.
 
 ## Usage
 
