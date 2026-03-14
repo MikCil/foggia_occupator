@@ -62,7 +62,7 @@ The dataset is providded under a Creative Commons 4.0 License.
 
 ## Acknowledgments
 
-The dataset was created with the help of the researchers at the Learning Sciences institute of the University of Foggia and the staff of the provincial library "La Magna Capitana". 
+The dataset was created with the help of researchers from the University of Foggia and the staff of the library "La Magna Capitana". 
 
 ## Contact
 
